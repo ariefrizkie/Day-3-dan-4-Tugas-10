@@ -1,0 +1,19 @@
+body {
+    background-color: gainsboro;
+}
+.container {
+    width: 1050px;
+    background-color: beige;
+    padding: 50px;
+
+}
+.container h4 {
+    color: lightseagreen;
+    font-weight: bold;
+}
+.container .btn {
+    font-weight: bold;
+}
+.container .table tr th {
+    background-color:lightblue
+}

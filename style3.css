@@ -1,0 +1,19 @@
+body {
+    background-color: gainsboro;
+}
+.container {
+    width: 1050px;
+    background-color: beige;
+    padding: 50px;
+
+}
+.container h2 {
+    color: lightseagreen;
+    font-weight: bold;
+}
+form label {
+    font-weight: bold;
+}
+form .btn {
+    font-weight: bold;
+}
